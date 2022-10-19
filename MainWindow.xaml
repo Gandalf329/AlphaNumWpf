@@ -1,0 +1,196 @@
+﻿<Window x:Class="AlphaNum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlphaNum"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,-5,0,5">
+        <Ellipse x:Name="E16_Copy" HorizontalAlignment="Left" Height="37" Margin="570,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="140" Fill="#FFC6FFC6" Visibility="Hidden"/>
+
+        <Image HorizontalAlignment="Left" Height="235" Margin="260,10,0,0" VerticalAlignment="Top" Width="195" Source="/numaplha.png"/>
+
+        <Ellipse x:Name="E2" HorizontalAlignment="Left" Height="23" Margin="724,216,0,0" Stroke="Black" VerticalAlignment="Top" Width="23" RenderTransformOrigin="0.5,0.5">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="264.57"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E13_Copy" HorizontalAlignment="Left" Height="134" Margin="619,163,0,0" Stroke="Black" VerticalAlignment="Top" Width="42" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.216"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E14_Copy" HorizontalAlignment="Left" Height="106" Margin="685,126,0,0" Stroke="Black" VerticalAlignment="Top" Width="45" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-5.215"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E2_Copy" HorizontalAlignment="Left" Height="23" Margin="724,216,0,0" Stroke="Black" VerticalAlignment="Top" Width="23" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="264.57"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E6_Copy" HorizontalAlignment="Left" Height="76" Margin="657,139,0,0" Stroke="Black" VerticalAlignment="Top" Width="30" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-16.146"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E4_Copy" HorizontalAlignment="Left" Height="89" Margin="625,127,0,0" Stroke="Black" VerticalAlignment="Top" Width="31" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.038"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E5_Copy" HorizontalAlignment="Left" Height="79" Margin="596,136,0,0" Stroke="Black" VerticalAlignment="Top" Width="31" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="13.396"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E12_Copy" HorizontalAlignment="Left" Height="101" Margin="550,128,0,0" Stroke="Black" VerticalAlignment="Top" Width="45" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="4.777"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E11_Copy" HorizontalAlignment="Left" Height="101" Margin="550,18,0,0" Stroke="Black" VerticalAlignment="Top" Width="45" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-4.801"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E8_Copy" HorizontalAlignment="Left" Height="55" Margin="596,96,0,0" Stroke="Black" VerticalAlignment="Top" Width="27" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.097"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E7_Copy" HorizontalAlignment="Left" Height="55" Margin="661,97,0,0" Stroke="Black" VerticalAlignment="Top" Width="27" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.097"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E15_Copy" HorizontalAlignment="Left" Height="106" Margin="685,14,0,0" Stroke="Black" VerticalAlignment="Top" Width="45" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="4.774"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E9_Copy" HorizontalAlignment="Left" Height="79" Margin="656,32,0,0" Stroke="Black" VerticalAlignment="Top" Width="31" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="14.052"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E10_Copy" HorizontalAlignment="Left" Height="86" Margin="620,33,0,0" Stroke="Black" VerticalAlignment="Top" Width="36" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="181.844"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse x:Name="E3_Copy" HorizontalAlignment="Left" Height="80" Margin="596,34,0,0" Stroke="Black" VerticalAlignment="Top" Width="31" RenderTransformOrigin="0.5,0.5" Fill="#FFC6FFC6" Visibility="Hidden">
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-14.422"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Rectangle HorizontalAlignment="Left" Height="249" Margin="525,10,0,0" VerticalAlignment="Top" Width="35" Fill="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="249" Margin="635,136,0,0" VerticalAlignment="Top" Width="35" Fill="White" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.961"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="249" Margin="525,10,0,0" VerticalAlignment="Top" Width="35" Fill="White"/>
+        <Rectangle HorizontalAlignment="Left" Height="6" Margin="575,4,0,0" VerticalAlignment="Top" Width="135" Fill="White"/>
+        <CheckBox x:Name="Ch2" Content="" HorizontalAlignment="Left" Margin="427,218,0,0" VerticalAlignment="Top" Checked="Ch2_Checked" Unchecked="Ch2_Unchecked"/>
+        <Image HorizontalAlignment="Left" Height="235" Margin="560,10,0,0" VerticalAlignment="Top" Width="195" Source="/numaplha.png"/>
+        <CheckBox x:Name="Ch13" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" IsChecked="False" Margin="331,218,0,0" Checked="Ch13_Checked" Unchecked="Ch13_Unchecked"/>
+        <CheckBox x:Name="Ch12" Content="" HorizontalAlignment="Left" Margin="270,169,0,0" VerticalAlignment="Top" Checked="Ch12_Checked" Unchecked="Ch12_Unchecked"/>
+        <CheckBox x:Name="Ch11" Content="" HorizontalAlignment="Left" Margin="270,68,0,0" VerticalAlignment="Top" Checked="Ch11_Checked" Unchecked="Ch11_Unchecked"/>
+        <CheckBox x:Name="Ch16" Content="" HorizontalAlignment="Left" Margin="332,14,0,0" VerticalAlignment="Top" Width="17" Checked="Ch16_Checked" Unchecked="Ch16_Unchecked"/>
+        <CheckBox x:Name="Ch15" Content="" HorizontalAlignment="Left" Margin="394,68,0,0" VerticalAlignment="Top" Checked="Ch15_Checked" Unchecked="Ch15_Unchecked"/>
+        <CheckBox x:Name="Ch14" Content="" HorizontalAlignment="Left" Margin="394,169,0,0" VerticalAlignment="Top" Checked="Ch14_Checked" Unchecked="Ch14_Unchecked"/>
+        <CheckBox x:Name="Ch10" Content="" HorizontalAlignment="Left" Margin="332,68,0,0" VerticalAlignment="Top" Height="15" Width="17" Checked="Ch10_Checked" Unchecked="Ch10_Unchecked"/>
+        <CheckBox x:Name="Ch3" Content="" HorizontalAlignment="Left" Margin="301,68,0,0" VerticalAlignment="Top" Checked="Ch3_Checked" Unchecked="Ch3_Unchecked"/>
+        <CheckBox x:Name="Ch5" Content="" HorizontalAlignment="Left" Margin="301,169,0,0" VerticalAlignment="Top" Checked="Ch5_Checked" Unchecked="Ch5_Unchecked"/>
+        <CheckBox x:Name="Ch9" Content="" HorizontalAlignment="Left" Margin="362,68,0,0" VerticalAlignment="Top" Checked="Ch9_Checked" Unchecked="Ch9_Unchecked"/>
+        <CheckBox x:Name="Ch8" Content="" HorizontalAlignment="Left" Margin="301,119,0,0" VerticalAlignment="Top" Checked="Ch8_Checked" Unchecked="Ch8_Unchecked"/>
+        <CheckBox x:Name="Ch7" Content="" HorizontalAlignment="Left" Margin="362,119,0,0" VerticalAlignment="Top" Checked="Ch7_Checked" Unchecked="Ch7_Unchecked"/>
+        <CheckBox x:Name="Ch4" Content="" HorizontalAlignment="Left" Margin="332,169,0,0" VerticalAlignment="Top" Checked="Ch4_Checked" Unchecked="Ch4_Unchecked"/>
+        <CheckBox x:Name="Ch6" Content="" HorizontalAlignment="Left" Margin="362,169,0,0" VerticalAlignment="Top" Checked="Ch6_Checked" Unchecked="Ch6_Unchecked"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="469,315,0,0" TextWrapping="Wrap" Text="return 0b00000000000000000;" VerticalAlignment="Top" Width="261" Height="39" FontSize="16"/>
+
+    </Grid>
+</Window>
